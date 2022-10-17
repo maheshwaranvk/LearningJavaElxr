@@ -12,5 +12,4 @@ public class Car extends Mobile{
 		obj2.add();// method of Calculator
 		obj2.call();// method of Mobile
 	}
-
 }
